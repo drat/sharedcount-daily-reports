@@ -1,0 +1,21 @@
+{
+    "website1" : {
+        "sitemaps" : [
+            "http://website1.com/fr/sitemap.xml",
+            "http://website1.com/en/sitemap.xml"
+        ],
+        "domains" : [
+            "website1.com",
+            "www.website1.com",
+        ],
+        "https" : true
+    },
+    "website2" : {
+        "sitemaps" : [
+            "http://website2.fr/sitemap.xml"
+        ],
+        "domains" : [
+            "website2.fr"
+        ]
+    }
+}
